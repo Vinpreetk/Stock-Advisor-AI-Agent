@@ -1,8 +1,8 @@
-📈 Stock Advisor AI Agent
+📈 **Stock Advisor AI Agent**
 
 An AI-powered pipeline for collecting, cleaning, and analyzing stock market data, with deep learning models for predicting trends.
 
-🚀 Features
+🚀 **Features**
 
 Phase 1: Scraping & Storage – Fetches financial data and stores it in Excel/CSV.
 
